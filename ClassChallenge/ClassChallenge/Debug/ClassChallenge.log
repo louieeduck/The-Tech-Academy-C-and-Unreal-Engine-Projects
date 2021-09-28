@@ -1,2 +1,3 @@
 ﻿  ClassChallenge.cpp
-  ClassChallenge.vcxproj -> C:\Users\evanf\Desktop\The-Tech-Academy-C-and-Unreal-Engine-Projects\ClassChallenge\Debug\ClassChallenge.exe
+C:\Users\evanf\Desktop\The-Tech-Academy-C-and-Unreal-Engine-Projects\ClassChallenge\ClassChallenge\ClassChallenge.cpp(42,1): warning C4305: '=': truncation from 'double' to 'float'
+LINK : fatal error LNK1104: cannot open file 'C:\Users\evanf\Desktop\The-Tech-Academy-C-and-Unreal-Engine-Projects\ClassChallenge\Debug\ClassChallenge.exe'
